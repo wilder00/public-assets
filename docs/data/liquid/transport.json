@@ -1,0 +1,174 @@
+{
+  "data": 
+  [
+    {
+      "code": "000001",
+      "name": "Transporte Oswaldo Segundo",
+      "location": "Lima",
+      "coordinators": 2,
+      "unitPersonnel": 10,
+      "trucks": 10
+    },
+    {
+      "code": "000002",
+      "name": "Transporte Oswaldo Primero",
+      "location": "Provincia",
+      "coordinators": 2,
+      "unitPersonnel": 10,
+      "trucks": 10
+    },
+    {
+      "code": "000003",
+      "name": "Transporte Rosario",
+      "location": "Lima",
+      "coordinators": 2,
+      "unitPersonnel": 10,
+      "trucks": 10
+    },
+    {
+      "code": "000004",
+      "name": "Another Transport",
+      "location": "Some Location",
+      "coordinators": 3,
+      "unitPersonnel": 15,
+      "trucks": 8
+    },
+    {
+      "code": "000005",
+      "name": "Transport Company XYZ",
+      "location": "City A",
+      "coordinators": 4,
+      "unitPersonnel": 12,
+      "trucks": 15
+    },
+    {
+      "code": "000006",
+      "name": "Express Logistics",
+      "location": "City B",
+      "coordinators": 2,
+      "unitPersonnel": 8,
+      "trucks": 12
+    },
+    {
+      "code": "000007",
+      "name": "Speedy Transports",
+      "location": "City C",
+      "coordinators": 5,
+      "unitPersonnel": 20,
+      "trucks": 18
+    },
+    {
+      "code": "000008",
+      "name": "Swift Movers",
+      "location": "City D",
+      "coordinators": 3,
+      "unitPersonnel": 15,
+      "trucks": 14
+    },
+    {
+      "code": "000009",
+      "name": "Cargo Express",
+      "location": "City E",
+      "coordinators": 4,
+      "unitPersonnel": 18,
+      "trucks": 20
+    },
+    {
+      "code": "000010",
+      "name": "Metro Freight",
+      "location": "City F",
+      "coordinators": 2,
+      "unitPersonnel": 10,
+      "trucks": 12
+    },
+    {
+      "code": "000011",
+      "name": "City Logistics",
+      "location": "City G",
+      "coordinators": 3,
+      "unitPersonnel": 12,
+      "trucks": 15
+    },
+    {
+      "code": "000012",
+      "name": "Global Transports",
+      "location": "City H",
+      "coordinators": 5,
+      "unitPersonnel": 20,
+      "trucks": 18
+    },
+    {
+      "code": "000013",
+      "name": "Ocean Shipping",
+      "location": "City I",
+      "coordinators": 4,
+      "unitPersonnel": 18,
+      "trucks": 20
+    },
+    {
+      "code": "000014",
+      "name": "Air Cargo Express",
+      "location": "City J",
+      "coordinators": 2,
+      "unitPersonnel": 10,
+      "trucks": 12
+    },
+    {
+      "code": "000015",
+      "name": "Land Freight Services",
+      "location": "City K",
+      "coordinators": 3,
+      "unitPersonnel": 12,
+      "trucks": 15
+    },
+    {
+      "code": "000016",
+      "name": "Urban Deliveries",
+      "location": "City L",
+      "coordinators": 4,
+      "unitPersonnel": 15,
+      "trucks": 14
+    },
+    {
+      "code": "000017",
+      "name": "Fast Track Couriers",
+      "location": "City M",
+      "coordinators": 2,
+      "unitPersonnel": 8,
+      "trucks": 12
+    },
+    {
+      "code": "000018",
+      "name": "Swift Couriers",
+      "location": "City N",
+      "coordinators": 3,
+      "unitPersonnel": 15,
+      "trucks": 14
+    },
+    {
+      "code": "000019",
+      "name": "Dynamic Transports",
+      "location": "City O",
+      "coordinators": 4,
+      "unitPersonnel": 18,
+      "trucks": 20
+    },
+    {
+      "code": "000020",
+      "name": "Express Shippers",
+      "location": "City P",
+      "coordinators": 2,
+      "unitPersonnel": 10,
+      "trucks": 12
+    }
+  ]
+  ,
+  "paginated": {
+    "pageNumber": 1,
+    "pageSize": 10,
+    "totalPages": 14,
+    "totalRecords": 30,
+    "nextPage": 3,
+    "previousPage": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": 
+  [
+    {"id": 1, "nombre": "Frank Perez", "tipoDeCoordinador": "Operativo", "telefono": "921239467"},
+    {"id": 2, "nombre": "Juan Perez", "tipoDeCoordinador": "Administrativo", "telefono": "994321987"},
+    {"id": 3, "nombre": "Ana Rodriguez", "tipoDeCoordinador": "Operativo", "telefono": "932945678"},
+    {"id": 4, "nombre": "Carlos Sánchez", "tipoDeCoordinador": "Administrativo", "telefono": "994678901"},
+    {"id": 5, "nombre": "Laura Martínez", "tipoDeCoordinador": "Operativo", "telefono": "968019445"},
+    {"id": 6, "nombre": "Miguel González", "tipoDeCoordinador": "Administrativo", "telefono": "976549610"},
+    {"id": 7, "nombre": "Carmen López", "tipoDeCoordinador": "Operativo", "telefono": "987654321"},
+    {"id": 8, "nombre": "Pedro Fernández", "tipoDeCoordinador": "Administrativo", "telefono": "912394678"},
+    {"id": 9, "nombre": "Isabel García", "tipoDeCoordinador": "Operativo", "telefono": "923494789"},
+    {"id": 10, "nombre": "Javier Ruiz", "tipoDeCoordinador": "Administrativo", "telefono": "994567890"},
+    {"id": 11, "nombre": "Sofía Pérez", "tipoDeCoordinador": "Operativo", "telefono": "945678941"},
+    {"id": 12, "nombre": "Diego Rodríguez", "tipoDeCoordinador": "Administrativo", "telefono": "994789012"},
+    {"id": 13, "nombre": "Elena Sánchez", "tipoDeCoordinador": "Operativo", "telefono": "967890943"},
+    {"id": 14, "nombre": "Manuel Martínez", "tipoDeCoordinador": "Administrativo", "telefono": "994901234"},
+    {"id": 15, "nombre": "Luis González", "tipoDeCoordinador": "Operativo", "telefono": "989012945"},
+    {"id": 16, "nombre": "Raquel López", "tipoDeCoordinador": "Administrativo", "telefono": "999423456"},
+    {"id": 17, "nombre": "Arturo Fernández", "tipoDeCoordinador": "Operativo", "telefono": "901944567"},
+    {"id": 18, "nombre": "María García", "tipoDeCoordinador": "Administrativo", "telefono": "919445678"},
+    {"id": 19, "nombre": "Pablo Ruiz", "tipoDeCoordinador": "Operativo", "telefono": "923459489"},
+    {"id": 20, "nombre": "Natalia Pérez", "tipoDeCoordinador": "Administrativo", "telefono": "994567890"},
+    {"id": 21, "nombre": "Hugo Rodríguez", "tipoDeCoordinador": "Operativo", "telefono": "945679401"},
+    {"id": 22, "nombre": "Silvia Sánchez", "tipoDeCoordinador": "Administrativo", "telefono": "959489012"},
+    {"id": 23, "nombre": "Daniel Martínez", "tipoDeCoordinador": "Operativo", "telefono": "967899423"},
+    {"id": 24, "nombre": "Lucía González", "tipoDeCoordinador": "Administrativo", "telefono": "994901234"},
+    {"id": 25, "nombre": "Fernando López", "tipoDeCoordinador": "Operativo", "telefono": "989012945"},
+    {"id": 26, "nombre": "Sara Fernández", "tipoDeCoordinador": "Administrativo", "telefono": "994123456"},
+    {"id": 27, "nombre": "Andrés García", "tipoDeCoordinador": "Operativo", "telefono": "901234947"},
+    {"id": 28, "nombre": "Beatriz Pérez", "tipoDeCoordinador": "Administrativo", "telefono": "994345678"},
+    {"id": 29, "nombre": "Martín Ruiz", "tipoDeCoordinador": "Operativo", "telefono": "923456949"},
+    {"id": 30, "nombre": "Fernando López", "tipoDeCoordinador": "Operativo", "telefono": "989942345"},
+    {"id": 31, "nombre": "Hugo Rodríguez", "tipoDeCoordinador": "Operativo", "telefono": "945948901"},
+    {"id": 12, "nombre": "Sofía Pérez", "tipoDeCoordinador": "Operativo", "telefono": "945679401"}
+  ]
+  ,
+  "paginated": {
+    "pageNumber": 1,
+    "pageSize": 10,
+    "totalPages": 4,
+    "totalRecords": 32,
+    "nextPage": 2,
+    "previousPage": 1
+  }
+}

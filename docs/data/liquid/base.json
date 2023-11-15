@@ -1,0 +1,13 @@
+{
+  "data": 
+  [ ]
+  ,
+  "paginated": {
+    "pageNumber": 1,
+    "pageSize": 10,
+    "totalPages": 14,
+    "totalRecords": 30,
+    "nextPage": 3,
+    "previousPage": 2
+  }
+}
